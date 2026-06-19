@@ -23,7 +23,7 @@ A desktop calculator application built with Python and Tkinter.
 
 ## 📸 Screenshot
 
-![Calculator Screenshot](Screenshot 2026-06-19 022838.png)
+![Calculator Screenshot](screenshot.png)
 
 ## 🚀 Installation
 
