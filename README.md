@@ -45,7 +45,7 @@ calculator-app/
 │
 ├── main.py
 ├── screenshot.png
-└── README.md (on Github)
+└── README.md
 
 ## 🎯 Learning Outcomes
 
